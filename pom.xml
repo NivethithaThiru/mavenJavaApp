@@ -6,7 +6,7 @@
 
   <groupId>com.nivi.java</groupId>
   <artifactId>sampleapp1</artifactId>
-  <version>sampleapp1</version>
+  <version>sampleapp1-SNAPSHOT</version>
 
   <name>sampleapp1</name>
   <!-- FIXME change it to the project's website -->
