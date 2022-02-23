@@ -72,4 +72,12 @@
       </plugins>
     </pluginManagement>
   </build>
+  
+  <distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>DevOpsLab1-0-releases</name>
+        <url>http://localhost:8081/artifactory/mavenjava-app-libs-release-local</url>
+    </repository>
+</distributionManagement>
 </project>
